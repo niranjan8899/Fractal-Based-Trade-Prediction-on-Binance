@@ -1,0 +1,20 @@
+Fractal_Timestamp,df10min_Bullish_Fractal,df10min_Bearish_Fractal,Pattern_Match_30min,Trade_Decision,Trade_Price,Exit_Price,Next_4H_Trend_1,Next_4H_Trend_2,Post_Trade_Trend,Trade_Type,Profit_Loss,Return_%,Holding_Period_Hours,Cumulative_P&L,Win_Count,Loss_Count
+2025-01-29 16:30:00,False,True,True,True,101980.78,103583.99,Bullish,Bullish,Uptrend,Short,1603.2100000000064,1.5720707372506921,4,1603.2100000000064,1,0
+2025-01-29 16:40:00,False,True,True,True,101980.78,103583.99,Bullish,Bullish,Uptrend,Short,1603.2100000000064,1.5720707372506921,4,3206.420000000013,2,0
+2025-01-29 16:50:00,False,True,True,True,101980.78,103583.99,Bullish,Bullish,Uptrend,Short,1603.2100000000064,1.5720707372506921,4,4809.630000000019,3,0
+2025-01-29 17:10:00,False,True,True,True,101980.78,103583.99,Bullish,Bullish,Uptrend,Short,1603.2100000000064,1.5720707372506921,4,6412.840000000026,4,0
+2025-01-29 17:20:00,False,True,True,True,101980.78,103583.99,Bullish,Bullish,Uptrend,Short,1603.2100000000064,1.5720707372506921,4,8016.050000000032,5,0
+2025-01-29 17:40:00,False,True,True,True,103584.0,103733.24,Bullish,Bullish,Uptrend,Short,149.24000000000524,0.1440763052208886,4,8165.290000000037,6,0
+2025-01-29 20:30:00,False,True,True,False,,,Bullish,Bullish,Uptrend,Short,,,4,,6,0
+2025-01-29 21:50:00,True,False,True,False,,,Bullish,Bullish,Uptrend,Long,,,4,,6,0
+2025-01-29 22:00:00,True,False,True,True,103584.0,103733.24,Bullish,Bullish,Uptrend,Long,149.24000000000524,0.1440763052208886,4,8314.530000000042,7,0
+2025-01-29 22:10:00,True,False,True,True,103733.25,105196.0,Bullish,Bullish,Uptrend,Long,1462.75,1.410107173929285,4,9777.280000000042,8,0
+2025-01-30 01:00:00,False,True,True,True,103733.25,105196.0,Bullish,Bullish,Uptrend,Short,1462.75,1.410107173929285,4,11240.030000000042,9,0
+2025-01-30 01:20:00,False,True,True,True,103733.25,105196.0,Bullish,Bullish,Uptrend,Short,1462.75,1.410107173929285,4,12702.780000000042,10,0
+2025-01-30 01:30:00,False,True,True,True,103733.25,105196.0,Bullish,Bullish,Uptrend,Short,1462.75,1.410107173929285,4,14165.530000000042,11,0
+2025-01-30 03:00:00,False,True,True,True,103733.25,105196.0,Bullish,Bullish,Uptrend,Short,1462.75,1.410107173929285,4,15628.280000000042,12,0
+2025-01-30 03:10:00,False,True,True,True,103733.25,105196.0,Bullish,Bullish,Uptrend,Short,1462.75,1.410107173929285,4,17091.030000000042,13,0
+2025-01-30 03:40:00,False,True,True,True,103733.25,105196.0,Bullish,Bearish,Mixed/Uncertain,Short,1462.75,1.410107173929285,4,18553.780000000042,14,0
+2025-01-30 03:50:00,False,True,True,False,,,Bearish,Bearish,Downtrend,Short,,,4,,14,0
+2025-01-30 05:00:00,False,True,True,False,,,Bearish,Bearish,Downtrend,Short,,,4,,14,0
+2025-01-30 06:20:00,True,False,True,False,,,Bearish,Bearish,Downtrend,Long,,,4,,14,0
